@@ -2,7 +2,7 @@
 
 I beg your pardon? Like the king who held back the tide. Oh. I see.
 
-I still don't get it. If you have a website that's heavy in video, audio, images and so forth then this might be a good use case for Cnut. It's a an attempt to lazy load all media only as 
+I still don't get it. If you have a website that's heavy in video, audio, images and so forth then this might be a good use case for Cnut. It's an attempt to lazy load all media only as 
 needed dependant on viewport and platform.
 
 ## Installation
